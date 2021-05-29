@@ -1,0 +1,15 @@
+.twin-container{
+    display: flex;
+    
+}
+.product-container{
+    width: 70%; 
+    margin-left: 10px ;
+    margin-right: 5px;
+    border-right: 1px solid lightgrey;
+    padding: 30px;
+}
+.product-name{
+    color: blue;
+    font-weight: 400;
+}
